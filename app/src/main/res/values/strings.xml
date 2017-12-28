@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Legenden von Andor</string>
+    <string name="action_settings">Settings</string>
+    <string name="silence">Stille</string>
+    <string name="txt_no_music">Herzlich willkommen zu den Legenden von Andor!</string>
+    <string name="txt_desc_legends">Hier steht der  Beschreibungstext  für die Legenden.  Um in das Legendenmenue zu gelangen drueken Sie den Button.</string>
+    <string name="imgButton_legends_discription">Button für das Legendenmenü</string>
+    <string name="imgButton_music_discription">Button für das Musikmenü</string>
+    <string name="img_partingline_disc">Trennlinie in Grün.</string>
+    <string name="title_activity_legends">LegendsActivity</string>
+    <string name="button_dummy">Dummy</string>
+    <string name="title_activity_grid">GridActivity</string>
+    <string name="str_legends_headline">Legenden</string>
+    <string name="strLegendNext">Weiter</string>
+    <string name="strLegendBack">Zurück</string>
+    <string name="descImgButtonMusic">Musik Menü aufrufen</string>
+    <string name="descImgButtonLegends">Legenden Menü aufrufen</string>
+    <string name="descImgTitle">Titelbild</string>
+    <string name="descStartMusic">Musik Starten</string>
+    <string name="descStopMusic">Musik Stoppen</string>
+
+
+</resources>

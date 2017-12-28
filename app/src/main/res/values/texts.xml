@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Legenden Titel und Texte
+    Wichtig: Jede Legende besteht aus einem Titel, Prolog und Den Legendenkarten. Zusätzlich muss die Anzahl der Legendenkarten
+    in der Variable "legend<Legendennummer>CardNumbers" abgespeichert werden.
+    Die Legendenkarten beginnen wie üblich mit dem Index 0.
+
+    Für jeden Hinzugefü
+    -->
+    <integer name="numberOfLegends">4</integer>
+    <string name="numberOfLegends">4</string>
+
+
+    <string name="legend0Prolog">Diese Legende ereignete sich nach den Tagen des Widerstands. Das Volk Andors atmete auf, denn der Dunkle Magier Varkur war vertrieben worden und seine diabolischen Pläne, um alle Andori zu unterwerfen, schienen vorläufig gescheitert zu sein. Auch die Trolle, die unerwartet wieder aufgetaucht waren, konnten von den Helden Anders abgewehrt werden, Das Volkfühlte sich seit langer Zeit wieder einmal sicher. Doch der alte König Brandur begriff indes, dass dies alles nur die Vorboten einer noch schlimmeren Bedrohung waren Er wusste, was unter dem Gebirge lauerte und was es war, dass die Trolle aufgescheucht hatte, Er durfte nicht tatenlos zusehen, wie die Dinge ihren Lauf nahmen. Und so raffte er sich zu einer letzten großen Tat auf„.</string>
+    <string name="legend0CardNumbers">5</string><!--TODO Anzahl anpassen-->
+    <string name="legend0Title">Die Eskorte des Königs</string>
+    <string name="legend0Card0">
+        <p>Führt zuerst die Anweisungen auf der <b>Checkliste</b> aus.<br/>
+        <b>Wichtig</b>: Mischt verdeckt 3 Bauernpl&amp;auml;ttchen:<br/>
+        1x Mann, 2x Frau.&lt;br/&gt;
+        <br/>
+        <br />
+        Anschlie&amp;szlig;end legt ihr zus&amp;auml;tzlich folgendes Material neben den Spielplan bereit:&lt;br/&gt;
+        Legt die Hexe, Die 15 Kreaturenpl&amp;auml;ttchen, den Gegenstand Gift und 3 schwarze W&amp;uuml;rfel bereit.<br/>
+        Legt Sternchen auf D, H und N der Legendenleiste.<br />
+        Legt die Karten &amp;quot;Der alte Narr&amp;quot; und &amp;quot;In der Mine&amp;quot; neben dem Spielplan bereit.<br />
+        Stellt Gors auf die Felder 10, 20, 39, 43, 48 und einen Skral auf das Feld 45.<br />
+        Legt verdeckt je ein Kreaturenpl&amp;auml;ttchen an die Buchstaben &amp;quot;B&amp;quot; bis &amp;quot;H&amp;quot; an die Legendenleiste und je ein zus&amp;auml;tzliches Kreaturenpl&amp;auml;ttchen an &amp;quot;C&amp;quot; und &amp;quot;E&amp;quot; (insg. also 9 Kreaturenpl&amp;auml;ttchen). Die Pl&amp;auml;ttchen werden erst aufgedeckt, wenn der Erz&amp;auml;hler das jeweilige Buchstabenfeld erreicht.<br />
+        <br/>
+        Lest jetzt auf der n&amp;auml;chsten Seite weiter.<br />
+        <br />
+        </p> </string>
+    <string name="legend0Card1"><p>
+
+        Hinweis: Sollte der Erzähler ein Feld auf der Legendenleiste erreichen, auf dem sowohl eine Legendenkarte als auch einKreaturenplättchen ausgelöst wird, hat das  <b> Kreaturenplättchen</b> immer Vorrang.<br/>
+        <br/>
+        <ul>
+            Erwürfelt mit einem roten (10er) und einem Heldenwürfel (1er) die Position von <strong>5 der 6 Runensteine</strong> und von <b>2 Trinkschläuchen</b>
+        </ul>
+
+            <i>ie letzten Winterstürme zogen über das Land, als den Helden von Andor ein neues Abenteuer bevorstand. Melkart, der Bewahrer, hatte sie zum Baum der Lieder gerufen, um Ihnen von einem beunruhigenden Gerücht zu erzählen.</i>
+       <br/>
+            Stellt alle Helden auf das Feld 57.
+       <br/>
+        <i>„Der könig habe den Verstand verloren, so sagt man“, berichtete Melkart. „Gant allein und in Lumpen gekleidet sei der alte Mann Richtung Düden aufgebrochen, ehe seine getreuen ihn hatten hindern können. Nun fehlt jede Spur von ihm.“</i>
+        <br/>
+        <br/>
+        Legt je eines der verdeckten Bauernplättchen auf die Felder <b>24</b>, <b>28</b> und <b>34</b>. Ein Held auf dem gleichen Feld kann sie aufdecken (mit dem Fernrohr auch von einem angrenzenden Feld). Wird eins der weiblichen Bauernplättchen aufgedeckt, kann es nach den üblichen Regeln zur Burg gebracht werden. Wird das männliche Bauernplättchen aufgedeckt, habt Ihr den König entdeckt. Wenn ein Held auf seinem Feld <b>steht</b>, lest sofort die Karte „Der alte Narr“ vor.<br/>
+        <b>Lest jetzt auf der nächsten Seite (A3) weiter.</b>
+        </p>
+
+    </string>>
+    <string name="legend0Card2">Diese Legende ereignete sich nach den Tagen des Widerstands. Das Volk Andors atmete auf, denn der Dunkle Magier Varkur war vertrieben worden und seine diabolischen Pläne, um alle Andori zu unterwerfen, schienen vorläufig gescheitert zu sein. Auch die Trolle, die unerwartet wieder aufgetaucht waren, konnten von den Helden Anders abgewehrt werden, Das Volkfühlte sich seit langer Zeit wieder einmal sicher. Doch der alte König Brandur begriff indes, dass dies alles nur die Vorboten einer noch schlimmeren Bedrohung waren Er wusste, was unter dem Gebirge lauerte und was es war, dass die Trolle aufgescheucht hatte, Er durfte nicht tatenlos zusehen, wie die Dinge ihren Lauf nahmen. Und so raffte er sich zu einer letzten großen Tat auf„.</string>
+    <string name="legend0Card3">Platzhalter</string>
+    <string name="legend0Card4">Platzhalter</string>
+    <string name="legend0Special0">Platzhalter</string>
+
+    <!-- Legenden Titel und Texte-->
+    <string name="legend1CardNumbers">4</string><!--TODO Anzahl anpassen-->
+    <string name="legend1Title">Die Zweite Legende</string>
+    <string name="legend1Prolog">Diese Legende ereignete sich nach den Tagen des Widerstands. Das Volk Andors atmete auf, denn der Dunkle Magier Varkur war vertrieben worden und seine diabolischen Pläne, um alle Andori zu unterwerfen, schienen vorläufig gescheitert zu sein. Auch die Trolle, die unerwartet wieder aufgetaucht waren, konnten von den Helden Anders abgewehrt werden, Das Volkfühlte sich seit langer Zeit wieder einmal sicher. Doch der alte König Brandur begriff indes, dass dies alles nur die Vorboten einer noch schlimmeren Bedrohung waren Er wusste, was unter dem Gebirge lauerte und was es war, dass die Trolle aufgescheucht hatte, Er durfte nicht tatenlos zusehen, wie die Dinge ihren Lauf nahmen. Und so raffte er sich zu einer letzten großen Tat auf„.</string>
+    <string name="legend1Card0">Platzhalter Karte A1</string>
+    <string name="legend1Card1">Platzhalter Karte A2</string>
+    <string name="legend1Card2">Platzhalter Karte B</string>
+    <string name="legend1Card3">Platzhalter Karte N</string>
+    <string name="legend1Special0">Platzhalter</string>
+
+    <!-- Legenden Titel und Texte-->
+    <string name="legend2CardNumbers">4</string><!--TODO Anzahl anpassen-->
+    <string name="legend2Title">Die Dritte Legende</string>
+    <string name="legend2Prolog">Diese Legende ereignete sich nach den Tagen des Widerstands. Das Volk Andors atmete auf, denn der Dunkle Magier Varkur war vertrieben worden und seine diabolischen Pläne, um alle Andori zu unterwerfen, schienen vorläufig gescheitert zu sein. Auch die Trolle, die unerwartet wieder aufgetaucht waren, konnten von den Helden Anders abgewehrt werden, Das Volkfühlte sich seit langer Zeit wieder einmal sicher. Doch der alte König Brandur begriff indes, dass dies alles nur die Vorboten einer noch schlimmeren Bedrohung waren Er wusste, was unter dem Gebirge lauerte und was es war, dass die Trolle aufgescheucht hatte, Er durfte nicht tatenlos zusehen, wie die Dinge ihren Lauf nahmen. Und so raffte er sich zu einer letzten großen Tat auf„.</string>
+    <string name="legend2Card0">Platzhalter Karte A1</string>
+    <string name="legend2Card1">Platzhalter Karte A2</string>
+    <string name="legend2Card2">Platzhalter Karte A3</string>
+    <string name="legend2Card3">Platzhalter Karte N</string>
+    <string name="legend2Special0">Platzhalter</string>
+    <!-- Legenden Titel und Texte-->
+    <string name="legend3CardNumbers">5</string><!--TODO Anzahl anpassen-->
+    <string name="legend3Title">Die Vierte Legende</string>
+    <string name="legend3Prolog">Diese Legende ereignete sich nach den Tagen des Widerstands. Das Volk Andors atmete auf, denn der Dunkle Magier Varkur war vertrieben worden und seine diabolischen Pläne, um alle Andori zu unterwerfen, schienen vorläufig gescheitert zu sein. Auch die Trolle, die unerwartet wieder aufgetaucht waren, konnten von den Helden Anders abgewehrt werden, Das Volkfühlte sich seit langer Zeit wieder einmal sicher. Doch der alte König Brandur begriff indes, dass dies alles nur die Vorboten einer noch schlimmeren Bedrohung waren Er wusste, was unter dem Gebirge lauerte und was es war, dass die Trolle aufgescheucht hatte, Er durfte nicht tatenlos zusehen, wie die Dinge ihren Lauf nahmen. Und so raffte er sich zu einer letzten großen Tat auf„.</string>
+    <string name="legend3Card0">Platzhalter Karte A1</string>
+    <string name="legend3Card1">Platzhalter Karte A2</string>
+    <string name="legend3Card2">Platzhalter Karte C</string>
+    <string name="legend3Card3">Platzhalter Karte F</string>
+    <string name="legend3Card4">Platzhalter Karte G</string>
+    <string name="legend3Special0">Platzhalter</string>
+
+</resources>

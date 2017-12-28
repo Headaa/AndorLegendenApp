@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_array">
+        <item>Die Eskorte des Königs</item>
+        <item>Legende 2</item>
+        <item>Legende 3</item>
+        <item>Legende 4</item>
+    </string-array>
+
+    <string-array name="legend">
+        <item>Die Eskorte des Königs</item>
+        <item>Legende 2</item>
+        <item>Legende 3</item>
+        <item>Legende 4</item>
+    </string-array>
+</resources>
